@@ -1,2 +1,3 @@
 # Coursera_test
-Coursera test respository
+gem "minima"
+$ bundle
